@@ -1,3 +1,10 @@
+// Copyright 2020, the Flutter project authors. Please see the AUTHORS file
+// for details. All rights reserved. Use of this source code is governed by a
+// BSD-style license that can be found in the LICENSE file.
+
+//Original version of Form APp can be found here: https://flutter.github.io/samples/form_app.html
+//This is modified with Finnish language and Accessibility features, such as Semantics and MergeSemantics
+
 # form_app
 
 A sample demonstrating different types of forms and best practices.
