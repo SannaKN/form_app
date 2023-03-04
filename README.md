@@ -6,7 +6,7 @@
 Original version of Form APP can be found here: https://flutter.github.io/samples/form_app.html
 This is modified with Finnish language and Accessibility features, such as Semantics and MergeSemantics
 
-Link for screen reader tes videos:
+Link for screen reader test videos:
 Android, part 1: https://youtu.be/zW27FhdxEL8
 Android, part 2: https://www.youtube.com/watch?v=UpXLodLru5A
 iOS: https://youtu.be/lzM9_uBgXMo
